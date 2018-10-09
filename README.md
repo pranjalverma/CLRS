@@ -1,6 +1,6 @@
 # CLRS, 3rd Edition
 
-My solutions (and attempts) to various algorithmic problems in CLRS, 3rd Edition.
+My solutions (and attempts) to various algorithmic problems in CLRS, 3rd Edition. 🔥💻
 
 ## List of Chapters:
 
