@@ -23,7 +23,7 @@ I hope.
 Nah, probably will take a long long time before I'm done.
 
 ### Can I use this code?
-Yeah, Idc. :)
+Yeah, Idc. :) 🎉
 
 ## List of Chapters:
 
