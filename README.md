@@ -1,7 +1,7 @@
 # CLRS, 3rd Edition
 
 ## So what's this about?
--These are my solutions (and attempts) to various algorithmic problems in CLRS, 3rd Edition. 🔥💻
+These are my solutions (and attempts) to various algorithmic problems in CLRS, 3rd Edition. 🔥💻
 
 ## Everything's in C++14, are you an expert?
 No, well I try to be, this repo is also my way of learning and familiarising with C++, as I've always been a python3 programmer before this repo existed, so if you stumble upon this repo and decide it's worth your time to use my code (for homework or whatever), do keep in mind that there might be better implementations and/or methods of solving these questions out there.
