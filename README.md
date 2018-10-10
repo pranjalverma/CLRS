@@ -8,8 +8,11 @@ No, well I try to be, this repo is also my way of learning and familiarising wit
 
 ## So is this repo useless then?
 Well, not quite, I do try my best to implement the best solution to a problem as best in C++ as possible. I research the question quite a bit before finalising on an answer and also post code regularly on [this amazing website](codereview.stackexchange.com) to ensure I'm not angrying the C++ Gods.
+
 TL;DR
+
 It's not completely useless.
+
 I hope.
 
 ## Is this repo completed?
