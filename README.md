@@ -20,7 +20,7 @@ It's not completely useless.
 I hope.
 
 ### Is this repo completed?
-Nah, probably will take a long long time before I'm done.
+Nah, probably will take a `long long` (hah) time before I'm done.
 
 ### Can I use this code?
 Yeah, Idc. :) 🎉
