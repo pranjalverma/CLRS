@@ -53,6 +53,9 @@ void printOptimalParen(vector<vector<int>> s, int i, int j, int a[])
 	return;
 }
 
+// I just used integers for testing purposes, so "*" suffices,
+// in real application, a matrix-multiplication function will be needed.
+// It's be "return matrixmul(matmul(...), matmul(...))
 int matmul(int a[], vector<vector<int>> s, int i, int j)
 {
 	if (i == j) return a[i];
