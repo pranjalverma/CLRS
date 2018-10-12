@@ -19,8 +19,8 @@ It's not completely useless.
 
 I hope.
 
-### Is this repo just about CLRS? Are you in love?
-No, ...and yes. I do love this book a lot but like I said, I try to research a problem/concept quite a bit before coding it up, so I use other references as well; [Skiena](http://mimoza.marmara.edu.tr/~msakalli/cse706_12/SkienaTheAlgorithmDesignManual.pdf), [Lehman & Leighton's Math for CS](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf) and online coding judges are main alternatives. This repo is mainly focused on CLRS, but it'll have sprinkles of code for problems/concepts from other sources as well, like those mentioned above.
+### Is this repo just about CLRS?
+Nah, not really. I do love this book a lot but like I said, I try to research a problem/concept quite a bit before coding it up, so I use other references as well; [Skiena](http://mimoza.marmara.edu.tr/~msakalli/cse706_12/SkienaTheAlgorithmDesignManual.pdf), [Lehman & Leighton's Math for CS](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf) and online coding judges are main alternatives. This repo is mainly focused on CLRS, but it'll have sprinkles of code for problems/concepts from other sources as well, like those mentioned above.
 
 Obviously I'll point it out whenever that's the case.
 
