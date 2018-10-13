@@ -37,3 +37,4 @@ Yeah, Idc. :) 🎉
 ## List of Chapters:
 
 - [Chapter 15 - Dynamic Programming](https://github.com/pranjalverma/CLRS/tree/master/15.%20Dynamic%20Programming)
+- [Chapter 22 - Elementary Graph Algorithms](https://github.com/pranjalverma/CLRS/tree/master/22.%20Elementary%20Graph%20Algorithms)
