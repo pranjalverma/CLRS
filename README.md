@@ -11,7 +11,7 @@ TL;DR
 Nope.
 
 ### So is this repo useless then?
-Well, not quite, I do try my best to implement the best solution to a problem as best in C++ as possible. I research the question quite a bit before finalising on an answer and also post code regularly on [this amazing website](https://stackoverflow.com) and [this other amazing website](https://codereview.stackexchange.com) to ensure I'm not angrying the C++ Gods.
+Well, not quite, I do try my best to implement the best solution to a problem as best in C++ as possible. I research the question quite a bit before finalising on an answer, websites like [this one](https://cs.stackexchange.com/help/on-topic) help a lot. I also post code regularly on [this amazing website](https://stackoverflow.com/help/on-topic) and [this other amazing website](https://codereview.stackexchange.com/help/on-topic) to ensure I'm not angrying the C++ Gods.
 
 TL;DR
 
