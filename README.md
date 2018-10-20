@@ -19,6 +19,15 @@ It's not completely useless.
 
 I hope.
 
+### Do you cover every question in the book?
+No. While I do attempt/solve every single question in the book for whatever I'm studying in my own time, this repo is mainly for implementation-type questions, i.e. questions that can be coded in a programming language. I'll post all codable questions here, and if some theoretical-type question seems super interesting to me I may also write a note about my solution for it in the respective chapter's markdown file.
+
+TL;DR
+
+Nah, this repo's mainly for codable questions, but you may find notes on some theoretical-type questions here and there.
+
+[A great proper solution manual for CLRS I use](http://sites.math.rutgers.edu/~ajl213/CLRS/CLRS.html)
+
 ### Is this repo just about CLRS?
 Nah, not really. I do love this book a lot but like I said, I try to research a problem/concept quite a bit before coding it up, so I use other references as well; [Skiena](http://mimoza.marmara.edu.tr/~msakalli/cse706_12/SkienaTheAlgorithmDesignManual.pdf), [Lehman & Leighton's Math for CS](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf) and online coding judges are main alternatives. This repo is mainly focused on CLRS, but it'll have sprinkles of code for problems/concepts from other sources as well, like those mentioned above.
 
