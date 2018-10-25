@@ -77,7 +77,7 @@ void printPath(int source, int destination, vector<int>& P)
 
 int main(void)
 {
-	ifstream infile("directedGraph.txt");
+	ifstream infile("directedGraph (cyclic, edge classification).txt");
 	istringstream iss;
 	string line;
 
