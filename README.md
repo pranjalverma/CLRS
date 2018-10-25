@@ -20,7 +20,7 @@ It's not completely useless.
 I hope.
 
 ### Do you cover every question in the book?
-No. While I do attempt/solve every single question in the book for whatever I'm studying in my own time, this repo is mainly for implementation-type questions, i.e. questions that can be coded in a programming language. I'll post all codable questions here, and if some theoretical-type question seems super interesting to me, I may also write a note about my solution for it in the respective chapter's markdown file.
+No. While I do attempt/solve every single question in the book for whatever I'm studying in my own time, this repo is mainly for the intersting implementation-type questions, i.e. interesting questions that can be coded in a programming language. I'll post all these codable questions here, and if some theoretical-type question seems super interesting to me, I may also write a note about my solution for it in the respective chapter's markdown file.
 
 TL;DR
 
