@@ -5,7 +5,7 @@ int findUniversalSink(vector<vector<int>> adjMat, int N)
 {
 	/*	
 		O(|V|) time algorithm for finding universal sink node 
-		in a directed graph, if it exists, given adjacency matrix
+		in a directed graph, if it exists, given adjacency matrix.
 	*/
 
 	// A universal sink, i, will have it's row with all 0's
